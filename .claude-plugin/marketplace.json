@@ -4,7 +4,9 @@
   "plugins": [
     {
       "name": "management-consultant-B1",
-      "source": ".",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skill"],
       "description": "MBB-level management consulting skill for Claude"
     }
   ]

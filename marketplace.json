@@ -1,0 +1,11 @@
+{
+  "name": "management-consultant",
+  "owner": { "name": "DogInfantry" },
+  "plugins": [
+    {
+      "name": "management-consultant-B1",
+      "source": ".",
+      "description": "MBB-level management consulting skill for Claude"
+    }
+  ]
+}
